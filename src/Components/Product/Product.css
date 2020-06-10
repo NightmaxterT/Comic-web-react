@@ -1,0 +1,26 @@
+.card-title{
+    min-height: 50px;
+    margin: 0;
+}
+.card-body{
+padding-top:unset;
+background: #000;
+opacity: 0.95;
+color: white;
+font-size: 120%;
+}
+.btn-secondary {
+    background: blue;
+    color: white;
+}
+.btn-secondary a{
+    color: white;
+    text-decoration: unset;
+}
+.col-card{
+    margin-top: 10px;
+}
+.wrap-slider{
+    width: 100%;
+    background: #282828;
+   }

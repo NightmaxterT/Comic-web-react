@@ -1,0 +1,16 @@
+.sub-slider{
+    width: 80%;
+    margin: auto;
+}
+h5{
+    color: yellow;
+    margin: unset;
+}
+.fix-img li {
+   padding: 20px;
+  
+}
+.fix-img li img{
+    min-height: 265px !important;
+    max-height: 265px;
+}
